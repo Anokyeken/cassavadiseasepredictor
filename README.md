@@ -15,4 +15,4 @@ The following are the technologies & tools used
 
 ## Screenshot of Results
 
-![violence](https://github.com/Anokyeken/cancerprediction/assets/100487231/d3517cf8-2db2-4642-bae7-36b2b054e89d)
+![cassava](https://github.com/Anokyeken/cassavadiseasepredictor/assets/100487231/c87fef6e-cacb-48e9-b6f1-ee8971c6c1b6)
